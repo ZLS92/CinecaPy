@@ -24,3 +24,7 @@ Clone the repository and install locally with pip:
 git clone https://github.com/YOUR_USERNAME/CinecaPy.git
 cd CinecaPy
 pip install .
+
+## 👤 Attribution
+
+- **CinecaPy** was developed and is maintained by **Dr. Luigi Sante Zampa**.
